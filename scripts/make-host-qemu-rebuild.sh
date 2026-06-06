@@ -1,3 +1,7 @@
+#!/bin/bash
+
+set -x
+
 cd $HOME/github/keystone/build-generic64/buildroot.build
 
 KEYSTONE=$HOME/github/keystone \
